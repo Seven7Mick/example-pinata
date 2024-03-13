@@ -1,0 +1,7 @@
+.vscode
+.env
+.env.hashes
+.env.example
+
+node_modules
+dist
